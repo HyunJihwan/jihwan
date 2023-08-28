@@ -36,8 +36,8 @@
 <a href="mailto:lsi6930@naver.com">
 <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
-<!-- <a href="https://github.com/HynJiHwan/jihwan/raw/main/portfolio.pdf" download="portfolio"> -->
-<img src="https://img.shields.io/badge/Portfolio-B5314C?style=flat&logo=codesandbox&logoColor=white" />
+<a href="https://https://github.com/HyunJihwan/jihwan/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20pdf-%ED%98%84%EC%A7%80%ED%99%98.pdf" download="portfolio"> 
+<img src="https://img.shields.io/badge/portfolio-B5314C?style=flat&logo=codesandbox&logoColor=white" />
 </a>
 <br><br><br><br>
 
