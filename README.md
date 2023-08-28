@@ -26,7 +26,7 @@
 <br><br>
 
 ### 🛠 Tools 
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/eGovFrame-1A1F71?style=flat&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" /> <img src="https://img.shields.io/badge/eGovFrame-1A1F71?style=flat&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> 
 
 <img src="https://img.shields.io/badge/DBeaver-372213?style=flat&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
@@ -36,12 +36,14 @@
 <a href="mailto:lsi6930@naver.com">
 <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/HyunJihwan/jihwan/raw/main/portfolio.pdf" download="portfolio.pdf">
+<a href="https://github.com/HyunJihwan/jihwan/raw/main/portfolio-현지환.pdf" download="portfolio-현지환.pdf">
 <img src="https://img.shields.io/badge/portfolio-B5314C?style=flat&logo=codesandbox&logoColor=white" />
 </a>
 <br><br><br><br>
 
 ## ⚖ Statistics ⚖
+<br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJihwan%2Fhit-counter&count_bg=%23C83D64&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJihwan&layout=compact"><br><br><img src="https://github-readme-stats.vercel.app/api?username=HyunJihwan&show_icons=true">
 </div>
