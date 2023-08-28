@@ -1,13 +1,14 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=HyunJihwan&fontSize=60)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HyunJihwan&fontSize=60" />
 
-
-## 🎈 Introduce 🎈
+## 🌱 Introduction 🌱
 <br>
+코드의 세계로 발을 디딘 열정적인 개발자 현지환입니다.
 
+프로그래밍은 저에게 끊임없는 도전과 성취감을 제공하는 분야로
 
-
+새로운 기술을 익히고 문제를 해결하는 과정에서의 즐거움을 절대 놓치지 않습니다.
 <br><br><br>
 
 ## 📚 Skills 📚
