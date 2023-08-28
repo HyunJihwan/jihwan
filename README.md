@@ -36,7 +36,7 @@
 <a href="mailto:lsi6930@naver.com">
 <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/HyunJihwan/jihwan/raw/main/portfolio-현지환.pdf" download="portfolio-현지환.pdf">
+<a href="https://github.com/HyunJihwan/jihwan/raw/main/포트폴리오-현지환.pdf" download="포트폴리오-현지환.pdf">
 <img src="https://img.shields.io/badge/portfolio-B5314C?style=flat&logo=codesandbox&logoColor=white" />
 </a>
 <br><br><br><br>
