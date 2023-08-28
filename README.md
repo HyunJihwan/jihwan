@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
 <!-- <a href="https://github.com/HynJiHwan/jihwan/raw/main/portfolio.pdf" download="portfolio"> -->
-<img src="https://img.shields.io/badge/Portfolio-B5314C?style=flat&logo=codesandbox&logoColor=white" />
+<img src="https://img.shields.io/badge/포트폴리오 pdf-현지환-B5314C?style=flat&logo=codesandbox&logoColor=white" />
 </a>
 <br><br><br><br>
 
