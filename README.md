@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=HyunJihwan&fontSize=60&fontAlign=80&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=HyunJihwan&fontSize=50&fontAlign=82&animation=twinkling" />
 
 ## 🌱*Introduction* 🌱
 
