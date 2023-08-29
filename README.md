@@ -1,6 +1,6 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HyunJihwan&fontSize=60" />
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=150&section=header&text=HyunJihwan&fontSize=60&fontAlign=50&fontColor=d6ace5" />
 
 ## 🌱 Introduction 🌱
 <br>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
 <br><br>
 
-### 📞 Contact 
+### 📞 Contact
 <a href="mailto:lsi6930@naver.com">
 <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
