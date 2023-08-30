@@ -16,6 +16,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -64,6 +65,26 @@ public class MemberController {
 		mnv.setViewName(url);
 		return mnv;
 	}
+	
+	@RequestMapping("/board")
+	public ModelAndView board (String mymenu, ModelAndView mnv , String mcode, HttpSession session) {
+		String url = "";
+		
+		if(mymenu == null) {
+			url = "/jihwan/boardMain.page";
+		}else {
+			url = "/jihwan/boardMain.mymenu";
+		}
+		
+		MemberVO member = new MemberVO();
+		mnv.addObject("member" , member);
+		mnv.addObject("mcode", mcode);
+		mnv.setViewName(url);
+		
+		return mnv;
+		
+	}
+	
 	@RequestMapping("/qna")
 	public ModelAndView qna (String mymenu, SearchCriteria cri, ModelAndView mnv, String mcode, HttpSession session) throws Exception {
 		String url = "";
