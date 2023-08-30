@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC 
+	"-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="kr.or.dw.dao.AttachDAO">
+
+	<insert id="insertAttach" parameterType="attach">
+		INSERT INTO attach (ano, uploadPath, fileName, fileType, pno, attacher, regdate)
+					VALUES (
+						    attach_seq.nextval
+						   ,#{uploadPath}
+						   ,#{fileName}
+						   ,#{fileType}
+						   ,#{pno}
+						   ,#{attacher}
+						   ,SYSDATE
+							)
+	</insert>
+	
+	<select id="selectAttachByPno" parameterType="int" resultType="attach">
+		SELECT *
+		  FROM attach
+		 WHERE pno = #{pno}
+	</select>
+	
+	<select id="selectAttachByAno" resultType="attach">
+		SELECT *
+		FROM attach
+		WHERE ano = #{ano}
+	</select>
+	
+	<delete id="deleteAttach" >
+		DELETE FROM attach WHERE ano = #{ano}
+	</delete>
+	
+	<delete id="deleteAllAttach" >
+		DELETE FROM attach WHERE pno = #{pno}
+	</delete>
+	
+</mapper>

@@ -66,24 +66,6 @@ public class MemberController {
 		return mnv;
 	}
 	
-	@RequestMapping("/board")
-	public ModelAndView board (String mymenu, ModelAndView mnv , String mcode, HttpSession session) {
-		String url = "";
-		
-		if(mymenu == null) {
-			url = "/jihwan/boardMain.page";
-		}else {
-			url = "/jihwan/boardMain.mymenu";
-		}
-		
-		MemberVO member = new MemberVO();
-		mnv.addObject("member" , member);
-		mnv.addObject("mcode", mcode);
-		mnv.setViewName(url);
-		
-		return mnv;
-		
-	}
 	
 	@RequestMapping("/qna")
 	public ModelAndView qna (String mymenu, SearchCriteria cri, ModelAndView mnv, String mcode, HttpSession session) throws Exception {
